@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi,I’m @KyleSaid 👋
 
 <!--
 **KyleSaid/KyleSaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 👋 Hi, I’m @KyleSaid
 - 👀 I’m interested in developer app；
 - 🌱 I’m currently learning Security things；
-- 💞️ I’m looking to collaborate on nothing；
+- 👯 I’m looking to collaborate on nothing；
 - 📫 How to reach me ... I don't have any personal website and contact；
 
 |Use Language Info|Dashboard Data|

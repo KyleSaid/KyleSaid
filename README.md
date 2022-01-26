@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 👋 Hi, I’m @KyleSaid
+- 👀 I’m interested in developer app；
+- 🌱 I’m currently learning Security things；
+- 💞️ I’m looking to collaborate on nothing；
+- 📫 How to reach me ... I don't have any personal website and contact；
